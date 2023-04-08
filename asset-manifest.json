@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gacha_calculator/static/css/main.df25db9b.css",
+    "main.js": "/gacha_calculator/static/js/main.b4a94e5a.js",
+    "index.html": "/gacha_calculator/index.html",
+    "main.df25db9b.css.map": "/gacha_calculator/static/css/main.df25db9b.css.map",
+    "main.b4a94e5a.js.map": "/gacha_calculator/static/js/main.b4a94e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df25db9b.css",
+    "static/js/main.b4a94e5a.js"
+  ]
+}
