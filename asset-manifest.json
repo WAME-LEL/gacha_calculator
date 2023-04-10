@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gacha_calculator/static/css/main.119118db.css",
-    "main.js": "/gacha_calculator/static/js/main.0376a306.js",
+    "main.css": "/gacha_calculator/static/css/main.17bc6e9d.css",
+    "main.js": "/gacha_calculator/static/js/main.3318cfc3.js",
     "index.html": "/gacha_calculator/index.html",
-    "main.119118db.css.map": "/gacha_calculator/static/css/main.119118db.css.map",
-    "main.0376a306.js.map": "/gacha_calculator/static/js/main.0376a306.js.map"
+    "main.17bc6e9d.css.map": "/gacha_calculator/static/css/main.17bc6e9d.css.map",
+    "main.3318cfc3.js.map": "/gacha_calculator/static/js/main.3318cfc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.119118db.css",
-    "static/js/main.0376a306.js"
+    "static/css/main.17bc6e9d.css",
+    "static/js/main.3318cfc3.js"
   ]
 }
